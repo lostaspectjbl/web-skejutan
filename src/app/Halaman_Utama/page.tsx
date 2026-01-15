@@ -22,8 +22,8 @@ const BirthdayWebsite = () => {
 
   // Data yang bisa Anda edit
   const birthdayData = {
-    name: "Nama Orang Tersayang",
-    age: 25,
+    name: "Dinda",
+    age: 17,
     quote: "Selamat ulang tahun Din! Semoga hadiah atau suprise dari aku ini bisa mengobati dompetmu yang hilang",
     message: "Di sini aku cuman bisa doa'in aja yang terbaik buat kamu dan semoga segala keininginanmu tercapai. Semangat terus yaa!!"
   };
@@ -179,7 +179,7 @@ const BirthdayWebsite = () => {
                 <CardContent className="p-12 bg-gradient-to-br from-pink-200 to-yellow-100">
                   <div className="text-center">
                     <div className="text-6xl mb-4">🎁</div>
-                    <p className="text-2xl font-bold text-pink-600">Klik untuk membuka!</p>
+                    <p className="text-2xl font-bold text-pink-600">Klik Sini Din!</p>
                   </div>
                 </CardContent>
               </Card>
